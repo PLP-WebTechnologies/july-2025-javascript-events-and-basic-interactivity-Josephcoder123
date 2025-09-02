@@ -1,0 +1,37 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+}
+
+.faq-answer {
+    display: none;
+}
+
+.dropdown-content {
+    display: none;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.tab-content {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.dark-mode {
+    background-color: #333;
+    color: white;
+}
